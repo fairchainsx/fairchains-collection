@@ -1,0 +1,20 @@
+{
+  "PEER_DEFAULT_PORTS" :
+  {
+    "t": "51811",
+    "s": "51812"
+  },
+  "PEERS" :
+  [
+      "electrum.faircoin.world s",
+      "electrumfair.punto0.org s"
+  ],
+  "SERVICES" : [
+      "rpc://127.0.0.1:8002",
+      "ssl://<my.serveraddress.io>:51812"
+  ],
+  "REPORT_SERVICES" :
+  [
+      "ssl://electrum.faircoin.world:51812"
+  ]
+}
