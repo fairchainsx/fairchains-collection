@@ -6,7 +6,19 @@ in this repository a collection of several FairChain coins can be stored.
 #### [FairCoin](FairCoin)
 
 
-## Application
+## Applications
+
+### Electrumfairchains client
+
+#### Install the Electrumfairchains
+( https://github.com/fairchainsx/electrumfairchains )
+
+#### Copy the 2 files in the fairchains folder
+~~~
+./electrum/fairchains/<mycoin>Chain.json
+./electrum/fairchains/<mycoin>Chain.electrumx.json
+~~~
+---
 
 ### ElectrumfairchainsX server
 
